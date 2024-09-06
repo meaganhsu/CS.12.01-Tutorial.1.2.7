@@ -24,4 +24,7 @@ public class Digits {
     public ArrayList<Integer> getDigitList() {
         return digitList;
     }
+    public void setDigitList(ArrayList<Integer> digitList) {
+        this.digitList = digitList;
+    }
 }
